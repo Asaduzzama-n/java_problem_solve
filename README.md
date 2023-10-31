@@ -1,9 +1,6 @@
 ﻿# Java Problem Solving Repository
 
-Welcome to the Java Problem Solving Repository! This repository aims to collect Java solutions for various programming problems, ranging from basic to advanced. Contributors are encouraged to follow the guidelines outlined below for a smooth and efficient contribution process.
-# Project Name
-
-Brief description of the project, its purpose, and its features.
+Welcome to the Java Problem Solving Repository! This repository aims to collect Java solutions for various programming problems, ranging from basic to advanced. Contributors are encouraged to follow the guidelines outlined below for a smooth and efficient contribution process..
 
 ## Table of Contents
 
@@ -32,7 +29,7 @@ We will review your pull request as soon as possible. To increase the likelihood
 
 ## License
 
-This project is licensed under the [License Name] - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT license] - see the [LICENSE](LICENSE) file for details.
 
 ## Contact
 
