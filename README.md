@@ -33,7 +33,7 @@ This project is licensed under the [MIT license] - see the [LICENSE](LICENSE) fi
 
 ## Contact
 
-For any further questions or discussions, feel free to reach out via [email] or [other means of contact].
+For any further questions or discussions, feel free to reach out via [asad_uzzaman@outlook.com].
 
 
 
