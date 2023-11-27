@@ -1,10 +1,9 @@
-package greedy_algorithm;
+package greedy_algorithm.coin_change_problem;
 
 import java.util.Arrays;
 import java.util.Collections;
-import java.util.Comparator;
 
-public class Coin_change_problem {
+public class Coin_change_greedy_approach {
 
     public static void calculate_coin(Integer coins[], int total_no_of_coins, int remaining_amount){
         for(int i=0; i<coins.length; i++){
